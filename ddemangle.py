@@ -11,7 +11,7 @@ YELLOW = '\x1b[33m'
 END = '\x1b[0m'
 HELP_MESSAGE = ('ddemangle is not installed or it\'s not available at ' +
                 '$PATH variable. Try exectue `which ddemangle`')
-HEADS = '_D4', '_D3'
+HEADS = '_D'
 
 
 def is_mangled_d_symbol(symbol: str) -> bool:
