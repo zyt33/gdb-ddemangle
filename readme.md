@@ -20,13 +20,3 @@ Helps to demangle traceback debugging an application that is written in D.
 
 * Run `gdb`
 * Run `python print(sys.version)` in GDB
-
-## Result
-
-### Before
-
-![Before](before.png)
-
-### After
-
-![After](after.png)
